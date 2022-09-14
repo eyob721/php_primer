@@ -23,6 +23,8 @@
             echo "<h3>My name is $name and I am $age years old.</h3>";
         ?>
         <button type="button" class="btn btn-dark">Click Me</button>
+        <button type="button" class="btn btn-primary">Click Me</button>
+        <button type="button" class="btn btn-success">Click Me</button>
 <?php
     require 'includes/footer.php';
 ?>
